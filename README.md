@@ -130,3 +130,17 @@ Licensed under The GNU General Public License version 3 (GPLv3)  (the "License")
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 # 我的知识库
 我是 wangdan-fit2cloud，刚刚 Fork 了这个项目，想做自己的知识库！
+# 我的知识库（wangdan-fit2cloud）
+
+## 关于 MaxKB
+（这里是原有的 MaxKB 介绍内容，暂时保留，方便你以后参考）
+
+## 我的知识库目标
+我是 wangdan-fit2cloud，刚刚 Fork 了 MaxKB 项目！  
+我的目标是：  
+- 用这个仓库存我的学习笔记，比如编程、GitHub 使用心得。  
+- 记录我的学习过程，慢慢改造成一个有用的知识库。  
+- 未来试着跑 MaxKB 代码，体验它的 AI 功能。
+
+## 我的笔记
+- [我的学习笔记](my_notes.md)：记录我的日常学习内容。
