@@ -128,3 +128,10 @@ Licensed under The GNU General Public License version 3 (GPLv3)  (the "License")
 <https://www.gnu.org/licenses/gpl-3.0.html>
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+
+## 我的知识库
+我是 wangdan-fit2cloud，刚刚 Fork 了 MaxKB 项目！  
+我的目标是：  
+- 用这个仓库存我的学习笔记。  
+- 慢慢学怎么跑 MaxKB，试试它的 AI 功能。  
+- 记录我的编程学习过程。
